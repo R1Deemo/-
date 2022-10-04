@@ -71,7 +71,7 @@ ul {
     position: absolute;
     top: 0;
     left: 0;
-    /* background-color: pink; */
+    background-color: pink;
     width: 40px;
     height: 44px;
 }
@@ -92,7 +92,7 @@ ul {
     top: 0;
     width: 40px;
     height: 44px;
-    /* background-color: purple; */
+    background-color: purple;
     color: #fff;
     line-height: 44px;
 }
@@ -104,7 +104,6 @@ ul {
     margin: 0 50px;
     margin-top: 7px;
     border-radius: 15px;
-    background-color: #fff;
 }
 
 .jd {
