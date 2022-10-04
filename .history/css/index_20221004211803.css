@@ -15,10 +15,6 @@ ul {
     list-style: none;
 }
 
-img {
-    vertical-align: top;
-}
-
 .app {
     height: 45px;
 }
@@ -149,9 +145,4 @@ img {
 
 .brand div {
     width: 33.3%;
-    float: left;
-}
-
-.brand div img {
-    width: 100%;
 }
