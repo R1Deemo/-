@@ -15,11 +15,6 @@ ul {
     list-style: none;
 }
 
-a {
-    color: #666;
-    text-decoration: none;
-}
-
 img {
     vertical-align: top;
 }
@@ -161,11 +156,6 @@ img {
     width: 100%;
 }
 
-nav {
-    padding-top: 5px;
-    margin-top: 5px;
-}
-
 nav a {
     width: 20%;
     float: left;
@@ -174,8 +164,4 @@ nav a {
 
 nav a img {
     width: 40px;
-}
-
-nav a span {
-    display: block;
 }

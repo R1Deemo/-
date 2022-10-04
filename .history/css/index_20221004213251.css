@@ -15,11 +15,6 @@ ul {
     list-style: none;
 }
 
-a {
-    color: #666;
-    text-decoration: none;
-}
-
 img {
     vertical-align: top;
 }
@@ -159,11 +154,6 @@ img {
 
 .brand div img {
     width: 100%;
-}
-
-nav {
-    padding-top: 5px;
-    margin-top: 5px;
 }
 
 nav a {
