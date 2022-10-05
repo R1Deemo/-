@@ -180,30 +180,14 @@ nav a span {
     display: block;
 }
 
-.news {
-    margin-top: 2px;
-}
-
-.news a {
-    float: left;
-    box-sizing: border-box;
-    /*  c3模型 */
-}
-
-.news img {
-    width: 100%;
-}
-
 .news a:nth-child(1) {
     width: 50%;
 }
 
 .news a:nth-child(2) {
     width: 25%;
-    border-left: 1px solid #ccc;
 }
 
 .news a:nth-child(3) {
     width: 25%;
-    border-left: 1px solid #ccc;
 }
